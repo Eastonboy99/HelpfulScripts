@@ -1,3 +1,4 @@
-# helpful-scripts
+# Helpfull Scripts
 
-This is a collection of helpful scripts. I probably did not make them and if i did it would say so.
+### Info
+This is a repo I use to hold some helpful scripts that I have found or have created. Feel free to use any of them
